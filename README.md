@@ -96,6 +96,10 @@ project/
 ```
 `enemy.png` serta file PNG di folder `enemies/` akan dimuat jika tersedia. Jika tidak ada gambar yang valid, game tetap dapat berjalan tanpa sprite.
 
+## Demo Gameplay
+
+ [YouTube](https://youtu.be/PbfujhLL-MM).
+
 ## Struktur Proyek
 
 ```text
